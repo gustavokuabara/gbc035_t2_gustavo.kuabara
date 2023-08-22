@@ -1,1 +1,1 @@
-# gbc035_t2_gustavo.kuabara
+#Repositório voltado as aulas de POO (Programação Orientada a Objetos)
